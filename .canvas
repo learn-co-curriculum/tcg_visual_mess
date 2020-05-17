@@ -1,4 +1,6 @@
 ---
-:page_id: 3505
-:course_id: 239
-:canvas_url: https://learning.flatironschool.com/courses/239/pages/tcg-visual-mess
+:lessons:
+- :id: 3984
+  :course_id: 272
+  :canvas_url: https://learning.flatironschool.com/courses/272/pages/tcg-visual-mess
+  :type: page
